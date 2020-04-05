@@ -73,7 +73,7 @@ const IndexPage = () => {
 				lat: coordinates[1],
 				lng: coordinates[0],
 			},
-			zoom: 7,
+			zoom: 6,
 		});
 
 		if (countryCode !== 'AU') {

@@ -8,7 +8,7 @@ const Header = () => {
 		<header>
 			<Container type="content">
 				<h1>
-					Coronavirus(COVID-19) Map<a href="/"></a>
+					<a href="/">Coronavirus(COVID-19) Map</a>
 				</h1>
 				<ul>
 					<li>

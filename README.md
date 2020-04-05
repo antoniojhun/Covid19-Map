@@ -2,6 +2,8 @@
 
 Uses <https://github.com/ExpDev07/coronavirus-tracker-api>
 
+![COVID-19 Map](https://user-images.githubusercontent.com/4811274/78504637-cb2f1a80-77b1-11ea-8db0-76f9e5d0b26b.png)
+
 ## What This Includes
 
 - [Yarn](https://yarnpkg.com/en/)

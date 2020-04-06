@@ -57,3 +57,7 @@ yarn develop
 ```
 
 - You should now be running a new Gatsby site locally! 🎉
+
+## Reference
+
+- [Gatsby Starter Leaflet](https://www.gatsbyjs.org/starters/colbyfayock/gatsby-starter-leaflet/)
